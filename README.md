@@ -38,3 +38,15 @@ Data Visualization with Tableau
 Analytical Thinking & Data Storytelling
 
 Dashboard Design for Business Decision-Making
+
+# Business Impact
+
+This analysis helps:
+
+Identify high-risk machines and factories
+
+Reduce downtime through proactive maintenance
+
+Improve operational efficiency
+
+Support data-driven decision-making

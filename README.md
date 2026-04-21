@@ -7,15 +7,22 @@ The objective was to identify machine breakdown patterns, uncover inefficiencies
 
 # Factories Analyzed
 Daikibo Factory Meiyo (Tokyo)
+
 Daikibo Factory Seiko (Osaka)
+
 Daikibo Berlin
+
 Daikibo Shenzhen
 
 # Dashboard Features
 Interactive Tableau Dashboard
+
 Failure trend analysis over time
+
 Factory-wise breakdown comparison
+
 Machine-level failure insights
+
 Global performance visualization
 
 # Key Insights
@@ -25,6 +32,9 @@ Global performance visualization
 
  # Skills & Tools Used
 Data Cleaning & Transformation (JSON Data)
+
 Data Visualization with Tableau
+
 Analytical Thinking & Data Storytelling
+
 Dashboard Design for Business Decision-Making
